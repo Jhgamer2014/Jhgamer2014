@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Realist</title>
+</head>
+<body>
+    <H1>Loja Da Realist</H1>
+    <h4><a href="sobrealoja.html">SOBRE A LOJA</a></h2>
+    <br>
+    <br>
+   <h2><a href="pdfs/CATÁLOGO REALIST_Verão24.pdf" download="CATÁLOGO REALIST_Verão24.pdf" type="application/pdf">Catalogo digital realist</a></h2> 
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre a loja</title>
+    <style>
+        mark {
+        
+            background-color: rgb(0, 255, 200);
+        }
+    </style>
+</head>
+<body>
+    <h1>Esta é a pagina sobre a loja realist</h1>
+    <h3><mark>Realist é uma loja bem conhecida e boa fassa suas compras de roupas é uma loja muito boa</mark></h3>
+    <br>
+    <br>
+    <h2>Ajude a divulgar nossa loja</h2>
+    <h3>divulgando nossa loja nos iremos ficar muito feliz e você podera receber descontos com a dica a seguir</h3>
+    <h2>Descontos</h2>
+    <H3>Para adquirir descontos você tenque comprar varias peças da nossa loja realist você pode receber ate 20% de desconto</H3>
+</body>
+</html>
